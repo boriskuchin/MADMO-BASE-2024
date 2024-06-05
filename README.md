@@ -15,5 +15,14 @@ https://colab.research.google.com/drive/135FvhQeNTdt1bH8mZZ6XId_ckHy8m8GJ?usp=sh
 Занятие 2. Дополнительно. Области видимости, замыкания, декораторы
 https://colab.research.google.com/drive/1t9GTDpJk7lW6jVnujZYur_4G_X41MGH-?usp=sharing
 
+Занятие 3. Библиотека NumPy
+https://colab.research.google.com/github/boriskuchin/MADMO-BASE-2024/blob/main/03_ml_libraries_numpy.ipynb
+
+Занятие 3. Работа с табличными данными. Pandas
+https://colab.research.google.com/github/boriskuchin/MADMO-BASE-2024/blob/main/03_ml_libraries_pandas.ipynb
+
+Занятие 4. Визуализация данных. Matplotlib
+https://colab.research.google.com/github/boriskuchin/MADMO-BASE-2024/blob/main/04_visualisation.ipynb
+
 Занятие 6. kNN. Базовая предобработка данных. Метрики качества задачи классификации. 
 https://colab.research.google.com/drive/1srY2yp0XFD2eyrIqr8hMpbA-IUzjbum3?usp=sharing
