@@ -1,12 +1,12 @@
 # AI-MFTI
 
-Занятие 1. Python Recap. Базовый синтаксис
+Занятие 1. Python Recap. Базовый синтаксис /n
 https://colab.research.google.com/drive/1Eh9LwgzFcA8QtnHZq4FiBbhR4sdeluxa?usp=sharing
 
-Занятие 2. Основы Python. Функции и классы 
+Занятие 2. Основы Python. Функции и классы /n
 https://colab.research.google.com/drive/15bKuprelUBhRrYuW2wnCjAYQStt1KeTC?usp=sharing
 
-Занятие 2. Дополнительно. Magic-методы
+Занятие 2. Дополнительно. Magic-методы /n
 https://colab.research.google.com/drive/1vA1DqLJsi03FIIsz61JvY_P6oGdCabLl?usp=sharing
 
 Занятие 2. Дополнительно. Генераторы и прочие полезности
