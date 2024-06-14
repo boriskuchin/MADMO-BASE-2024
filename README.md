@@ -1,4 +1,6 @@
 # AI-MFTI
+#Ведомость
+https://docs.google.com/spreadsheets/d/e/2PACX-1vTiPUYerX0LYFGc89gYOKgr0vGQhWKKyl7dV0Xpv97NBmvUY-zWdA6tu8q_lOwzZjNKlsPoDM1-MGUO/pubhtml?gid=350858153&single=true
 
 Занятие 1. Python Recap. Базовый синтаксис 
 https://colab.research.google.com/drive/1Eh9LwgzFcA8QtnHZq4FiBbhR4sdeluxa?usp=sharing
