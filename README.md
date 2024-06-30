@@ -43,3 +43,7 @@ https://colab.research.google.com/drive/1qVQlGiKZxuaa2D3sIvBnDILcMhtoX_Xm?usp=sh
 
 Занятие 11. Алгоритмы уменьшения размерности
 https://colab.research.google.com/drive/1acX5BFEPpTLjgnxYQ2RKzz15r87L6Q0E?usp=sharing
+
+Занятие 12. Решающие деревья. Случайный лес
+https://colab.research.google.com/drive/1Wu0FmvAMA5qj3I_YOrz283HSTSyS_1mw?usp=sharing
+
