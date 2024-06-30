@@ -41,4 +41,5 @@ https://colab.research.google.com/drive/1Q5uEBN_ts4FRYu9p5Flmkup993-n4eZ9?usp=sh
 Занятие 10. Кластеризация
 https://colab.research.google.com/drive/1qVQlGiKZxuaa2D3sIvBnDILcMhtoX_Xm?usp=sharing
 
-
+Занятие 11. Алгоритмы уменьшения размерности
+https://colab.research.google.com/drive/1acX5BFEPpTLjgnxYQ2RKzz15r87L6Q0E?usp=sharing
