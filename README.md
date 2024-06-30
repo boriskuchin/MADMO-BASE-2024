@@ -34,3 +34,6 @@ https://colab.research.google.com/drive/1-GfsJVKqWNlC4jY1pJNNm4qezcB5ST_h?usp=sh
 
 Занятие 8. Регуляризация. Выбор модели. Перебор параметров алгоритма.
 https://colab.research.google.com/drive/189KvfD7DEMsXHsJKeKhdKXq8UuBCizAf?usp=sharing
+
+Занятие 9. Линейная классификация
+https://colab.research.google.com/drive/1Q5uEBN_ts4FRYu9p5Flmkup993-n4eZ9?usp=sharing
