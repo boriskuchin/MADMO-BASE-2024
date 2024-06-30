@@ -37,3 +37,8 @@ https://colab.research.google.com/drive/189KvfD7DEMsXHsJKeKhdKXq8UuBCizAf?usp=sh
 
 Занятие 9. Линейная классификация
 https://colab.research.google.com/drive/1Q5uEBN_ts4FRYu9p5Flmkup993-n4eZ9?usp=sharing
+
+Занятие 10. Кластеризация
+https://colab.research.google.com/drive/1qVQlGiKZxuaa2D3sIvBnDILcMhtoX_Xm?usp=sharing
+
+
