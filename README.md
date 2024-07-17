@@ -47,3 +47,8 @@ https://colab.research.google.com/drive/1acX5BFEPpTLjgnxYQ2RKzz15r87L6Q0E?usp=sh
 Занятие 12. Решающие деревья. Случайный лес
 https://colab.research.google.com/drive/1Wu0FmvAMA5qj3I_YOrz283HSTSyS_1mw?usp=sharing
 
+Занятие 13. Boosting
+https://colab.research.google.com/drive/1JQs1SqtZsBjanzNFbzjuR5zikU41lxpd?usp=sharing
+
+Занятие 14. Классические подходы в обработке текста. Наивный Байес
+https://colab.research.google.com/drive/1ig55ZcGm19zqYEustA3qHavK3dOgf0lE?usp=sharing
